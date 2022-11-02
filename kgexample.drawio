@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T06:43:11.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XY4LiC_odVogcMpQHO8p" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T06:44:17.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Kd2t0jjezlt90UQ9USos" version="20.5.1" type="github">
   <diagram id="LzGYEGz26b_Z9dJ2FGKL" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,11 @@
         <mxCell id="1" parent="0" />
         <mxCell id="mvXgDdQYAwKlj44WGuFZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvXgDdQYAwKlj44WGuFZ-1" target="mvXgDdQYAwKlj44WGuFZ-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvXgDdQYAwKlj44WGuFZ-24" value="配偶" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mvXgDdQYAwKlj44WGuFZ-9">
+          <mxGeometry x="0.2" y="-3" relative="1" as="geometry">
+            <mxPoint x="-11" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mvXgDdQYAwKlj44WGuFZ-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mvXgDdQYAwKlj44WGuFZ-1" target="mvXgDdQYAwKlj44WGuFZ-3">
           <mxGeometry relative="1" as="geometry" />
@@ -23,6 +28,11 @@
         </mxCell>
         <mxCell id="mvXgDdQYAwKlj44WGuFZ-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mvXgDdQYAwKlj44WGuFZ-1" target="mvXgDdQYAwKlj44WGuFZ-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvXgDdQYAwKlj44WGuFZ-25" value="类型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mvXgDdQYAwKlj44WGuFZ-13">
+          <mxGeometry x="-0.4643" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mvXgDdQYAwKlj44WGuFZ-1" value="姚明" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="260" width="50" height="40" as="geometry" />
@@ -71,6 +81,16 @@
         </mxCell>
         <mxCell id="mvXgDdQYAwKlj44WGuFZ-8" value="上海东方八爪鱼" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="330" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mvXgDdQYAwKlj44WGuFZ-26" value="类型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230.00247747029647" y="310.0032357566826" as="geometry">
+            <mxPoint x="84" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvXgDdQYAwKlj44WGuFZ-27" value="所属" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="285" y="290" as="geometry">
+            <mxPoint x="98" y="20" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
