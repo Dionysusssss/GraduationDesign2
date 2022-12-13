@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T08:50:06.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6xrjf5qzgEYBeK5DEx3C" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-13T12:04:19.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="2acIuEBEDGF36ybfnkRF" version="20.5.3" type="github">
   <diagram id="UUC0fAXGH5V5j1937fmP" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,8 +26,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="56" y="180" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="120" y="180" />
-              <mxPoint x="120" y="193" />
+              <mxPoint x="100" y="180" />
+              <mxPoint x="100" y="193" />
             </Array>
             <mxPoint x="56" y="193" as="targetPoint" />
           </mxGeometry>
@@ -42,7 +42,7 @@
           <mxGeometry x="45" y="240" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MVt_M8J9HRYvp3wHRAKe-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="MVt_M8J9HRYvp3wHRAKe-11">
-          <mxGeometry x="45" y="314" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="314" width="10" height="66" as="geometry" />
         </mxCell>
         <mxCell id="MVt_M8J9HRYvp3wHRAKe-47" value="5.1 候选实体传入实体表征模型" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="MVt_M8J9HRYvp3wHRAKe-11">
           <mxGeometry relative="1" as="geometry">
@@ -50,11 +50,15 @@
             <mxPoint x="45" y="318" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MVt_M8J9HRYvp3wHRAKe-48" value="5.2 返回实体的全局/局部表征" style="html=1;verticalAlign=bottom;endArrow=blockThin;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="MVt_M8J9HRYvp3wHRAKe-11">
+        <mxCell id="MVt_M8J9HRYvp3wHRAKe-56" value="5.2 问答建模" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;jumpSize=6;verticalAlign=top;labelPosition=right;verticalLabelPosition=bottom;" edge="1" parent="MVt_M8J9HRYvp3wHRAKe-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-174" y="347" as="targetPoint" />
-            <Array as="points" />
-            <mxPoint x="45" y="346" as="sourcePoint" />
+            <mxPoint x="55" y="344.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="55" y="330" />
+              <mxPoint x="90" y="330" />
+              <mxPoint x="90" y="358" />
+            </Array>
+            <mxPoint x="55" y="357.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MVt_M8J9HRYvp3wHRAKe-12" value="知识图谱" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -123,20 +127,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MVt_M8J9HRYvp3wHRAKe-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1289" y="730" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MVt_M8J9HRYvp3wHRAKe-54" value="5.1 候选实体传入实体表征模型" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="MVt_M8J9HRYvp3wHRAKe-48" value="5.2 返回实体的全局/局部表征" style="html=1;verticalAlign=bottom;endArrow=blockThin;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070" y="734" as="sourcePoint" />
-            <mxPoint x="1289" y="734" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MVt_M8J9HRYvp3wHRAKe-55" value="5.2 返回实体的全局/局部表征" style="html=1;verticalAlign=bottom;endArrow=blockThin;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070" y="763" as="targetPoint" />
+            <mxPoint x="716" y="621" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="1289" y="762" as="sourcePoint" />
+            <mxPoint x="935" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
